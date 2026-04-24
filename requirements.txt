@@ -1,5 +1,0 @@
-sentence-transformers
-google-generativeai
-langchain
-chromadb
-pandas
